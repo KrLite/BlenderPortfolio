@@ -1,4 +1,4 @@
-<blockquote>
+
   <!--Kr Simplified-->
   <details>
     <summary>
@@ -53,4 +53,4 @@
       </tr>
     </table>
   </details>
-</blockquote>
+
