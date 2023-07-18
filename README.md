@@ -66,13 +66,21 @@
 <details>
   <summary>
     <b>Equator</b>
-    &emsp;<code>Banner</code>
+    &emsp;<code>Banner</code> <code>Logo</code>
   </summary>
   <br />
   <table>
     <tr>
-      <td>
+      <td colspan="2">
         <img src="post/Equator/Equator%20Upscaled%20Post.png?raw=true" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="256" src="export/Equator/Equator%20Icon%20Downscaled.png?raw=true" />
+      </td>
+      <td align="center">
+        <img width="256" src="post/Equator/Equator%20Icon.png?raw=true" />
       </td>
     </tr>
   </table>
