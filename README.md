@@ -61,3 +61,19 @@
     </tr>
   </table>
 </details>
+
+<!--Equator-->
+<details>
+  <summary>
+    <b>Equator</b>
+    &emsp;<code>Banner</code>
+  </summary>
+  <br />
+  <table>
+    <tr>
+      <td>
+        <img src="post/Equator/Equator%20Upscaled%20Post.png?raw=true" />
+      </td>
+    </tr>
+  </table>
+</details>
