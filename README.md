@@ -49,25 +49,25 @@
     </tr>
     <tr>
       <td>
-        <a href="cut/export/Rimecraft/Rimecraft.png" />
-          <img src="export/Rimecraft/Rimecraft.png?raw=true" />
+        <a href="export/Rimecraft/Rimecraft.png" />
+          <img src="cut/export/Rimecraft/Rimecraft.png?raw=true" />
         </a>
       </td>
       <td>
-        <a href="cut/export/Rimecraft/Rimecraft%20Beta.png" />
-          <img src="export/Rimecraft/Rimecraft%20Beta.png?raw=true" />
+        <a href="export/Rimecraft/Rimecraft%20Beta.png" />
+          <img src="cut/export/Rimecraft/Rimecraft%20Beta.png?raw=true" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="cut/export/Rimecraft/Rimecraft%20Wet%20Post.png" />
-          <img src="export/Rimecraft/Rimecraft%20Wet%20Post.png?raw=true" />
+        <a href="export/Rimecraft/Rimecraft%20Wet%20Post.png" />
+          <img src="cut/export/Rimecraft/Rimecraft%20Wet%20Post.png?raw=true" />
         </a>
       </td>
       <td>
-        <a href="cut/export/Rimecraft/Rimecraft%20Beta%20Wet%20Post.png" />
-          <img src="export/Rimecraft/Rimecraft%20Beta%20Wet%20Post.png?raw=true" />
+        <a href="export/Rimecraft/Rimecraft%20Beta%20Wet%20Post.png" />
+          <img src="cut/export/Rimecraft/Rimecraft%20Beta%20Wet%20Post.png?raw=true" />
         </a>
       </td>
     </tr>
@@ -84,15 +84,21 @@
   <table>
     <tr>
       <td colspan="2">
-        <img src="post/Equator/Equator%20Upscaled%20Post.png?raw=true" />
+        <a href="post/Equator/Equator%20Upscaled%20Post.png" />
+          <img src="cut/post/Equator/Equator%20Upscaled%20Post.png?raw=true" />
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img width="256" src="export/Equator/Equator%20Icon%20Downscaled.png?raw=true" />
+        <a href="export/Equator/Equator%20Icon%20Downscaled.png" />
+          <img width="256" src="cut/export/Equator/Equator%20Icon%20Downscaled.png?raw=true" />
+        </a>
       </td>
       <td align="center">
-        <img width="256" src="post/Equator/Equator%20Icon.png?raw=true" />
+        <a href="post/Equator/Equator%20Icon.png" />
+          <img width="256" src="cut/post/Equator/Equator%20Icon.png?raw=true" />
+        </a>
       </td>
     </tr>
   </table>
