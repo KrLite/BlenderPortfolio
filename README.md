@@ -49,8 +49,7 @@
   <br />
   <table>
     <tr>
-      <th>Rimecraft Logo</th>
-      <th>Rimecraft Beta Logo</th>
+      <th colspan="2">Rimecraft Logo</th>
     </tr>
     <tr>
       <td>
@@ -59,15 +58,18 @@
         </a>
       </td>
       <td>
-        <a href="export/Rimecraft/Rimecraft%20Beta.png" />
-          <img src="cut/export/Rimecraft/Rimecraft%20Beta.png?raw=true" />
+        <a href="export/Rimecraft/Rimecraft%20Wet%20Post.png" />
+          <img src="cut/export/Rimecraft/Rimecraft%20Wet%20Post.png?raw=true" />
         </a>
       </td>
     </tr>
     <tr>
+      <th colspan="2">Rimecraft Beta Logo</th>
+    </tr>
+    <tr>
       <td>
-        <a href="export/Rimecraft/Rimecraft%20Wet%20Post.png" />
-          <img src="cut/export/Rimecraft/Rimecraft%20Wet%20Post.png?raw=true" />
+        <a href="export/Rimecraft/Rimecraft%20Beta.png" />
+          <img src="cut/export/Rimecraft/Rimecraft%20Beta.png?raw=true" />
         </a>
       </td>
       <td>
