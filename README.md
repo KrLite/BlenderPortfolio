@@ -1,5 +1,7 @@
 > ***Note***&emsp;
 > The following pictures are downscaled. **Click on them to see the original ones.**
+>
+> **ProjektBlender** is licensed under **[Creative Commons Attribution-NonCommercial 4.0 License.](LICENSE)**
 
 <!--Kr Simplified-->
 <details>
