@@ -9,21 +9,27 @@
     <tr>
       <td>
         <!--Kr-Simplified-主机位-->
-        <img
-          src="post/Kr-Simplified/%E4%B8%BB%E6%9C%BA%E4%BD%8D.png?raw=true"
-        />
+        <a href="post/Kr-Simplified/%E4%B8%BB%E6%9C%BA%E4%BD%8D.png" />
+          <img
+            src="post/Kr-Simplified/Cut/%E4%B8%BB%E6%9C%BA%E4%BD%8D.png?raw=true"
+          />
+        </a>
       </td>
       <td>
         <!--Kr-Simplified-侧机位-->
-        <img
-          src="post/Kr-Simplified/%E4%BE%A7%E6%9C%BA%E4%BD%8D.png?raw=true"
-        />
+        <a href="post/Kr-Simplified/%E4%BE%A7%E6%9C%BA%E4%BD%8D.png" />
+          <img
+            src="post/Kr-Simplified/Cut/%E4%BE%A7%E6%9C%BA%E4%BD%8D.png?raw=true"
+          />
+        </a>
       </td>
       <td>
         <!--Kr-Simplified-近景（长焦）-->
-        <img
-          src="post/Kr-Simplified/%E8%BF%91%E6%99%AF%EF%BC%88%E9%95%BF%E7%84%A6%EF%BC%89.png?raw=true"
-        />
+        <a href="post/Kr-Simplified/%E8%BF%91%E6%99%AF%EF%BC%88%E9%95%BF%E7%84%A6%EF%BC%89.png" />
+          <img
+            src="post/Kr-Simplified/Cut/%E8%BF%91%E6%99%AF%EF%BC%88%E9%95%BF%E7%84%A6%EF%BC%89.png?raw=true"
+          />
+        </a>
       </td>
     </tr>
   </table>
