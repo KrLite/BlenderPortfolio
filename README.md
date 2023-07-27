@@ -5,7 +5,8 @@
 <details>
   <summary>
     <b>Kr Simplified</b>
-    &emsp;<code>Logo</code> <code>Personal</code>
+    &emsp;<code>Logo</code>
+    <code>Personal</code>
   </summary>
   <br />
   <table>
@@ -43,6 +44,7 @@
   <summary>
     <b>Rimecraft</b>
     &emsp;<code>Logo</code>
+    &emsp;<a href="https://github.com/rimecraft-rs/rimecraft"><code>→</code></a>
   </summary>
   <br />
   <table>
@@ -81,7 +83,9 @@
 <details>
   <summary>
     <b>Equator</b>
-    &emsp;<code>Banner</code> <code>Logo</code>
+    &emsp;<code>Banner</code>
+    <code>Logo</code>
+    &emsp;<a href="https://github.com/KrLite/Equator-v2"><code>→</code></a>
   </summary>
   <br />
   <table>
