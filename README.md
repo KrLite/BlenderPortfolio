@@ -1,3 +1,6 @@
+> ***Note***&emsp;
+> The following pictures are downscaled. **Click on them to see the original ones.**
+
 <!--Kr Simplified-->
 <details>
   <summary>
