@@ -1,5 +1,5 @@
 > [!TIP]
-> The following pictures are downscaled. **Click on them to see the original ones.**
+> The following pictures are downscaled. Click them to view the original ones.
 
 > [!IMPORTANT]
 > **This repository** is licensed under **[Creative Commons Attribution-NonCommercial 4.0 License.](LICENSE)**
